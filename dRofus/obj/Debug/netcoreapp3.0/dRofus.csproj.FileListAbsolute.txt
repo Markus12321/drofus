@@ -1,0 +1,11 @@
+C:\Users\Morki\source\repos\dRofus\dRofus\bin\Debug\netcoreapp3.0\dRofus.exe
+C:\Users\Morki\source\repos\dRofus\dRofus\bin\Debug\netcoreapp3.0\dRofus.deps.json
+C:\Users\Morki\source\repos\dRofus\dRofus\bin\Debug\netcoreapp3.0\dRofus.runtimeconfig.json
+C:\Users\Morki\source\repos\dRofus\dRofus\bin\Debug\netcoreapp3.0\dRofus.runtimeconfig.dev.json
+C:\Users\Morki\source\repos\dRofus\dRofus\bin\Debug\netcoreapp3.0\dRofus.dll
+C:\Users\Morki\source\repos\dRofus\dRofus\bin\Debug\netcoreapp3.0\dRofus.pdb
+C:\Users\Morki\source\repos\dRofus\dRofus\obj\Debug\netcoreapp3.0\dRofus.csprojAssemblyReference.cache
+C:\Users\Morki\source\repos\dRofus\dRofus\obj\Debug\netcoreapp3.0\dRofus.AssemblyInfoInputs.cache
+C:\Users\Morki\source\repos\dRofus\dRofus\obj\Debug\netcoreapp3.0\dRofus.AssemblyInfo.cs
+C:\Users\Morki\source\repos\dRofus\dRofus\obj\Debug\netcoreapp3.0\dRofus.dll
+C:\Users\Morki\source\repos\dRofus\dRofus\obj\Debug\netcoreapp3.0\dRofus.pdb
